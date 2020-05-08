@@ -8,6 +8,8 @@ https://help.github.com/en/github/getting-started-with-github
 
 https://help.github.com/en
 
+https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
+
 ## Learning Resources
 
 https://openstax.org/
