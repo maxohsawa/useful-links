@@ -10,6 +10,10 @@ https://help.github.com/en
 
 https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
 
+## Code Sharing
+
+https://gist.github.com/
+
 ## Learning Resources
 
 https://openstax.org/
@@ -65,3 +69,11 @@ https://github.com/deepmind/pysc2
 ## Javascript
 
 https://realpython.com/python-vs-javascript/
+
+## Frontend
+
+https://codepen.io/
+
+## Interviews
+
+https://coderpad.io/
