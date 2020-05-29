@@ -61,3 +61,7 @@ https://remoteleaf.com/whoishiring?ref=reddit
 https://www.donatecode.com/
 
 https://github.com/deepmind/pysc2
+
+## Javascript
+
+https://realpython.com/python-vs-javascript/
